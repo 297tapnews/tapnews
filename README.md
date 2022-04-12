@@ -4,7 +4,7 @@ You can quickly deploy this project by Docker.
 
 We've already pushed the Docker image on the following link:
 
-https://hub.docker.com/repository/docker/youknowqyh/tapnews
+https://hub.docker.com/r/youknowqyh/tapnews
 
 You can type the following commands to run the container:
 
